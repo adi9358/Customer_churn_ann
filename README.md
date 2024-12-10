@@ -23,3 +23,8 @@ HasCrCard: Indicates whether the customer holds a credit card with the company (
 IsActiveMember: Denotes whether the customer is actively engaging with the company (1 for yes, 0 for no). Inactive members are more likely to churn.
 
 EstimatedSalary: Specifies the estimated annual income of the customer. Income levels can influence purchasing power and risk tolerance.
+
+
+<h2>The project is deploy on Streamlit app .click this : https://customerchurnann-2va8iwlrizfvwfbrpzcr29.streamlit.app/</h2>
+
+
